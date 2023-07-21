@@ -44,6 +44,9 @@ body {
 .display-7 > .mbr-iconfont {
   font-size: 1.5rem;
 }
+a.display-7 {
+  font-size: 1rem;
+}
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
 /* 100vw - current viewport width */
@@ -83,7 +86,7 @@ body {
 }
 /* Buttons */
 .btn {
-  padding: 0.6rem 1.2rem;
+  padding: 0.6rem 0.8rem;
   border-radius: 4px;
 }
 .btn-sm {
